@@ -1,0 +1,6 @@
+@ProformaInvoiceBackEnd_HostAddress = http://localhost:5103
+
+GET {{ProformaInvoiceBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
